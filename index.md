@@ -1,2 +1,3 @@
-#Hello everybody, everybody hello !
-Bordel faut que je me remette au HTML
+#Un site pour ma gueule et mes amis
+
+Ce site sera mal fait, non référencé et me servira surtout d'entrainement à la rédaction. Ceci grâce à la rédaction de tuto utile pour moi ou pour des amis. Pour ne pas oublier des manips fait non régulièrement ou pour lister les bonnes adresses...
