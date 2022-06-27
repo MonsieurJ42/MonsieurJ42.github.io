@@ -8,8 +8,8 @@ Géomaticien diplômé de l'Université Paul Valéry de Montpellier, j'essaye de
 La suite de mon C.V. : [Curriculum Vitae informel](https://monsieurj42.github.io/curiculum)
 
 ## Articles
-- [Tutoriel de connexion à un FTP dans Windows](https://monsieurj42.github.io/1_tuto_co_ftp_windows)
-- [Tuto installation PostgreSQL et PostGIS sur Windows 10](https://monsieurj42.github.io/2_tuto_instal_PG_windows)
+- [Tutoriel de connexion à un FTP dans Windows](https://monsieurj42.github.io/article/1_tuto_co_ftp_windows)
+- [Tuto installation PostgreSQL et PostGIS sur Windows 10](https://monsieurj42.github.io/article/2_tuto_instal_PG_windows)
 
 ## Mes projets
 *Prochainement*
