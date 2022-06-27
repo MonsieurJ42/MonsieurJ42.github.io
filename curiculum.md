@@ -1,7 +1,7 @@
-# Un Curriculum Vitae informel
+# Curriculum Vitae informel
 <!-- Il va falloir trouver comment mettre une photo <img src="https://monsieurgis.files.wordpress.com/2020/09/moi.png?w=991" alt="" -->
 
-Justin Ollier, 26 ans
+Justin Ollier, 28 ans
 
 Géomaticien diplômé de l'Université Paul Valéry de Montpellier, j'essaye de faire que demain soit un peu meilleurs pour nous, notre société et notre planète. Un objectif tout autant professionnel que personnel. J'ai aussi une obsession sur le renseignement de poubelles et de boîtes aux lettres dans OpenStreetMap
 

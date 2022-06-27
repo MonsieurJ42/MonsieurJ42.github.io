@@ -15,4 +15,4 @@ La suite de mon C.V. : [Curriculum Vitae informel](https://monsieurj42.github.io
 *Prochainement*
 
 ## Les bons liens et les bons tuto
-https://monsieurj42.github.io/les_bons_liens_et_les_bons_tuto
+[A retrouvez ici](https://monsieurj42.github.io/les_bons_liens_et_les_bons_tuto)
