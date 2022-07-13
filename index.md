@@ -1,5 +1,3 @@
-# Welcome
-
 ## A propos
 Justin Ollier, 28 ans
 
