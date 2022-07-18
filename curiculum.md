@@ -1,5 +1,5 @@
 # Curriculum Vitae informel
-![It's me ! Justin !](https://github.com/MonsieurJ42/media_depot/blob/d0553b5df4b93c1a1b6b0fcd2900abc6decf9e53/avatar_photo.JPEG)
+![It's me ! Justin !](https://raw.githubusercontent.com/MonsieurJ42media_depot/main/avatar_photo.JPEG)
 
 Justin Ollier, 28 ans
 
