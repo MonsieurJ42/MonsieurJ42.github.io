@@ -10,6 +10,9 @@ Les bons liens et les bons tutos toujours utile à avoir sous la main
 - Des tutos et des formations SIG, parfois gratuite [ici](https://spatialthoughts.com/)
 
 ## Arts de la mise en page et autre beauté cartographique
+### Création de carte :
+- Sortir de jolie carte rapidement pour de l'illustration avec [PrettyMap](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlitapp.com/~/+/#prettymapp)
+### Outils :
 - Bien choisir ses couleurs, un guide pratique [ici](https://blog.datawrapper.de/beautifulcolors/index.html)
 ### Styles et templates :
 - Bibliothèque de style QGIS créer par Klas Karlsson diponible [ici](https://style-hub.github.io/#)
