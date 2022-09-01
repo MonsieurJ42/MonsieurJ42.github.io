@@ -1,7 +1,7 @@
 ## A propos
 Justin Ollier, 28 ans
 
-28 ans, Géomaticien diplômé de l’Université Paul Valéry de Montpellier, j’essaye de faire que demain soit un peu meilleurs pour nous, notre société et notre planète. Un objectif tout autant professionnel que personnel. Je met mes compétences au service du public pour répondre à cet objectif.
+28 ans, Géomaticien diplômé de l’Université Paul Valéry de Montpellier, j’essaye de faire que demain soit un peu meilleur pour nous, notre société et notre planète. Un objectif tout autant professionnel que personnel. Je mets mes compétences au service du public pour répondre à cet objectif
 
 La suite de mon C.V. : [A Propos / Curriculum Vitae ](https://monsieurj42.github.io/curiculum)
 
