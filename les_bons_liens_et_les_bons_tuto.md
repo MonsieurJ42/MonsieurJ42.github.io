@@ -50,4 +50,4 @@ Les bons liens et les bons tutos toujours utile à avoir sous la main
 ### Logiciels
 - GDAL en installeur msi (windows) en téléchagement [ici](https://www.gisinternals.com/index.html)
 
-[Retour A propos](https://monsieurj42.github.io/index)]
+[Retour A propos](https://monsieurj42.github.io/index)

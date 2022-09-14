@@ -68,4 +68,4 @@ Construction de petits bâtiments en ossatures bois, notament certains des abris
 ## L'Humain
 A venir ...
 
-[Retour A propos](https://monsieurj42.github.io/index)]
+[Retour A propos](https://monsieurj42.github.io/index)

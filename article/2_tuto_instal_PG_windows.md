@@ -491,4 +491,4 @@ CREATE EXTENSION pgrouting;</pre>
 <p>Félicitation vous avez désormais une base de données <strong>PostgreSQL</strong> et son extension <strong>PostGIS</strong> opérationnel sur votre ordinateur. Vous trouverez toutes le commandes SQL de <strong>PostgreSQL</strong> <a rel="noreferrer noopener" href="https://www.postgresql.org/docs/12/index.html" target="_blank">ici</a> et pour <strong>PostGIS</strong> <a rel="noreferrer noopener" href="https://postgis.net/docs/manual-3.0/" target="_blank">ici</a>.</p>
 <!-- /wp:paragraph -->
 
-[Retour A propos](https://monsieurj42.github.io/index)]
+[Retour A propos](https://monsieurj42.github.io/index)
