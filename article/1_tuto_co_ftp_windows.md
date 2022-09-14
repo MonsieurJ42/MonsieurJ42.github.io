@@ -127,3 +127,5 @@
 <!-- wp:paragraph -->
 <p>* La fédération française de randonnée refuse que soit diffusé gratuitement le tracé des GR. Du coup le Scan 25 ne peut pas être diffusé car les tracé des chemins comporte l'information "GR#"</p>
 <!-- /wp:paragraph -->
+
+[Retour A propos](https://monsieurj42.github.io/index)]
